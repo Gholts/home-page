@@ -62,12 +62,12 @@
     }
 
     & .view-code {
-      background-color: #b9bbbe;
+      background-color: #515152;
     }
 
     & .view-demo {
       flex: 1;
-      background-color: #ff923e;
+      background-color: #5a5978;
     }
   }
 }
