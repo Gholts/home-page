@@ -34,7 +34,7 @@ export const carouselList: Array<AllCard> = [
   {
     id: nanoid(),
     type: 'user',
-    avatar: 'https://image.gholts.top/file/77cc82bf2ecbaecd4c4f0.png',
+    avatar: '/images/avatar.png',
     name: 'Gholts',
     social: [
       {
