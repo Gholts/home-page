@@ -56,6 +56,6 @@ export const carouselList: Array<AllCard> = [
         openNewPage: true,
       },
     ],
-    describe: '一個技術博客☝️🥸',
+    describe: 'This is Gholts🥸',
   },
 ];
