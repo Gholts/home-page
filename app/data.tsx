@@ -58,4 +58,17 @@ export const carouselList: Array<AllCard> = [
     ],
     describe: 'This is Gholts🥸',
   },
+  {
+    id: nanoid(),
+    type: 'project',
+    previewImg: '/images/image-preview.png',
+    name: 'Telegraph-Image',
+    tags: [
+      { name: 'HTML', color: '#de5930' },
+      { name: 'Javascript', color: '#f3de69' },
+    ],
+    describe: 'Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.',
+    codeUrl: 'https://github.com/Gholts/Telegraph-Image',
+    demoUrl: 'https://image.gholts.top/',
+  },
 ];
