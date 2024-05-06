@@ -29,7 +29,6 @@
   user-select: none;
   background-position: center;
   background-size: cover;
-  thickness: 10px;
 
   & img,
   & a {
