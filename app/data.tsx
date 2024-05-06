@@ -45,7 +45,7 @@ export const carouselList: Array<AllCard> = [
       },
       {
         name: 'Email',
-        url: 'mailto:zou.hai@outlook.com',
+        url: 'mailto:gholtsmxv@gholts.top',
         icon: <MailIcon width={16} height={16} />,
         openNewPage: false,
       },
