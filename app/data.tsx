@@ -67,7 +67,7 @@ export const carouselList: Array<AllCard> = [
       { name: 'HTML', color: '#de5930' },
       { name: 'Javascript', color: '#f3de69' },
     ],
-    describe: 'Displays the visitor/u0027s public IP information. and connection status to the Telegram data center.',
+    describe: 'Displays the visitors public IP information. and connection status to the Telegram data center.',
     codeUrl: 'https://github.com/KKKKKCAT/kkcat-ip',
     demoUrl: 'https://ip.gholts.top/',
   },
