@@ -2,7 +2,6 @@ import { MailIcon, MapPinIcon } from "lucide-react";
 import { nanoid } from 'nanoid'
 import { GitHubIcon } from "@/components/icons/github-icon";
 import { AllCard } from "@/app/cards";
-import './96110.js'
 
 export const carouselList: Array<AllCard> = [
   {
