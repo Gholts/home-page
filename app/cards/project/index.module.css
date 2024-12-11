@@ -58,16 +58,16 @@
       justify-content: center;
       align-items: center;
       padding: 8px 14px;
-      color: #cad3f5;
+      color: #cad3f5; /*按鈕突出顏色*/
     }
 
     & .view-code {
-      background-color: #494d64;
+      background-color: #494d64; /*code 按鈕背景*/
     }
 
     & .view-demo {
       flex: 1;
-      background-color: #c6a0f6;
+      background-color: #1e2030; /*demo 按鈕背景*/
     }
   }
 }
