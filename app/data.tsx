@@ -8,21 +8,7 @@ export const displayList: Array<AllCard> = [
   {
     id: nanoid(),
     type: 'project',
-    previewImg: '/images/no-image.png',
-    name: 'Empty',
-    tags: [
-      { name: 'There', color: '#E34C26' },
-      { name: 'is', color: '#563D7C' },
-      { name: 'nothing', color: '#F1E05A' },
-    ],
-    describe: 'Nothing, It is placeholder.',
-    codeUrl: '',
-    demoUrl: '',
-  },
-  {
-    id: nanoid(),
-    type: 'project',
-    previewImg: '/images/blog-preview.png',
+    previewImg: 'https://image.gholts.top/20241211213244347.png',
     name: 'Gholts Blog',
     tags: [
       { name: 'Ruby', color: '#6D1F19' },
@@ -35,7 +21,7 @@ export const displayList: Array<AllCard> = [
   {
     id: nanoid(),
     type: 'user',
-    avatar: '/images/avatar.png',
+    avatar: 'https://avatars.githubusercontent.com/u/104642670',
     name: 'Gholts',
     social: [
       {
@@ -62,7 +48,19 @@ export const displayList: Array<AllCard> = [
   {
     id: nanoid(),
     type: 'project',
-    previewImg: '/images/IP check-preview.png',
+    previewImg: 'https://image.gholts.top/20241211213655427.png',
+    name: 'Sublink-Proxy',
+    tags: [
+      { name: 'JavaScript', color: '#f3de69' },
+    ],
+    describe: 'a proxy sublink converter based cloudflare worker.',
+    codeUrl: 'https://github.com/Gholts/sublink-worker',
+    demoUrl: 'sublink.gholts.top',
+  },
+  {
+    id: nanoid(),
+    type: 'project',
+    previewImg: 'https://image.gholts.top/20241211213116786.png',
     name: 'IP-Check',
     tags: [
       { name: 'HTML', color: '#de5930' },
