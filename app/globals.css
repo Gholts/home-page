@@ -13,8 +13,8 @@ body {
 }
 
 body {
-  color: rgb(255, 255, 255);
-  background-color: #FFF;
+  color: rgb(202, 211, 245);
+  background-color: #cad3f5;
 }
 
 a {
@@ -29,7 +29,7 @@ a {
 
 ::-webkit-scrollbar-thumb {
   border-radius: 10px;
-  background-color: #636363;
+  background-color: #1e2030;
 }
 
 ::-webkit-scrollbar-track {

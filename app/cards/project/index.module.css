@@ -58,16 +58,16 @@
       justify-content: center;
       align-items: center;
       padding: 8px 14px;
-      color: #fff;
+      color: #cad3f5;
     }
 
     & .view-code {
-      background-color: #717275;
+      background-color: #494d64;
     }
 
     & .view-demo {
       flex: 1;
-      background-color: #949ee5;
+      background-color: #c6a0f6;
     }
   }
 }
