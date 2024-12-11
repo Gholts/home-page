@@ -21,7 +21,7 @@ export const displayList: Array<AllCard> = [
   {
     id: nanoid(),
     type: 'user',
-    avatar: 'https://avatars.githubusercontent.com/u/104642670',
+    avatar: '/images/avatar.jpg',
     name: 'Gholts',
     social: [
       {
