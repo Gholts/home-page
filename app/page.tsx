@@ -21,7 +21,7 @@ export default function Home() {
   }, []);
 
   // 在这里修改动画效果
-  const [animateType] = useState<AnimateType>('swiper-coverflow');
+  const [animateType] = useState<AnimateType>('swiper-tiled');
 
   const getDisplayList = () => {
     switch (animateType) {

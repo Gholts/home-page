@@ -8,7 +8,7 @@ export const displayList: Array<AllCard> = [
   {
     id: nanoid(),
     type: 'project',
-    previewImg: 'https://image.gholts.top/20241211213244347.png',
+    previewImg: '/images/20241211213244347.png',
     name: 'Gholts Blog',
     tags: [
       { name: 'Ruby', color: '#6D1F19' },
@@ -48,7 +48,7 @@ export const displayList: Array<AllCard> = [
   {
     id: nanoid(),
     type: 'project',
-    previewImg: 'https://image.gholts.top/20241211213655427.png',
+    previewImg: '/images/20241211213655427.png',
     name: 'Sublink-Proxy',
     tags: [
       { name: 'JavaScript', color: '#f3de69' },
@@ -60,7 +60,7 @@ export const displayList: Array<AllCard> = [
   {
     id: nanoid(),
     type: 'project',
-    previewImg: 'https://image.gholts.top/20241211213116786.png',
+    previewImg: '/images/20241211213116786.png',
     name: 'IP-Check',
     tags: [
       { name: 'HTML', color: '#de5930' },
