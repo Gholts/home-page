@@ -55,7 +55,7 @@ export const displayList: Array<AllCard> = [
     ],
     describe: 'a proxy sublink converter based cloudflare worker.',
     codeUrl: 'https://github.com/Gholts/sublink-worker',
-    demoUrl: 'sublink.gholts.top',
+    demoUrl: 'https://sublink.gholts.top',
   },
   {
     id: nanoid(),
@@ -68,6 +68,6 @@ export const displayList: Array<AllCard> = [
     ],
     describe: 'Displays the visitors public IP information. and connection status to the Telegram data center.',
     codeUrl: 'https://github.com/KKKKKCAT/kkcat-ip',
-    demoUrl: 'https://ip.gholts.top/',
+    demoUrl: 'https://ip.gholts.top',
   },
 ];
