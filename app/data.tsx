@@ -48,26 +48,15 @@ export const displayList: Array<AllCard> = [
   {
     id: nanoid(),
     type: 'project',
-    previewImg: '/images/20241211213655427.png',
-    name: 'Sublink-Proxy',
-    tags: [
-      { name: 'JavaScript', color: '#f3de69' },
-    ],
-    describe: 'a proxy sublink converter based cloudflare worker.',
-    codeUrl: 'https://github.com/Gholts/sublink-worker',
-    demoUrl: 'https://sublink.gholts.top',
-  },
-  {
-    id: nanoid(),
-    type: 'project',
-    previewImg: '/images/20241211213116786.png',
+    previewImg: '/images/postspark_export_2025-04-08_12-19-50.png',
     name: 'IP-Check',
     tags: [
       { name: 'HTML', color: '#de5930' },
       { name: 'Javascript', color: '#f3de69' },
+      { name: 'CSS', color: '#663399' },
     ],
-    describe: 'Displays the visitors public IP information. and connection status to the Telegram data center.',
-    codeUrl: 'https://github.com/KKKKKCAT/kkcat-ip',
-    demoUrl: 'https://ip.gholts.top',
+    describe: 'GitHub release, archive, and project file acceleration project. Supports api.github.com, git.io, and unlimited nesting of GitHub script calls.',
+    codeUrl: 'https://github.com/Gholts/gh-proxy',
+    demoUrl: 'https://ghproxy.gholts.link/',
   },
 ];

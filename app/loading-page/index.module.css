@@ -21,7 +21,7 @@
   top: 0;
   width: 51%;
   height: 100%;
-  background: #939ab7; /*loading 背景*/
+  background: #2d2f3f; /*loading 背景*/
   z-index: 1;
 
   &.section-left {
