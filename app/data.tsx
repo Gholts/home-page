@@ -49,7 +49,7 @@ export const displayList: Array<AllCard> = [
     id: nanoid(),
     type: 'project',
     previewImg: '/images/postspark_export_2025-04-08_12-19-50.png',
-    name: 'IP-Check',
+    name: 'GitHub-Proxy',
     tags: [
       { name: 'HTML', color: '#de5930' },
       { name: 'Javascript', color: '#f3de69' },
